@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raddid
+- 👀 I’m interested in coding fr // java
+- 🌱 I’m currently learning java // c#
